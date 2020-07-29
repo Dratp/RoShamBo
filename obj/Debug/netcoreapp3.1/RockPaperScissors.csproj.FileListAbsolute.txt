@@ -1,0 +1,13 @@
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\DevBuild4\Games\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\DevBuild4\Games\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
