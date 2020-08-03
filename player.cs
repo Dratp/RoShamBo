@@ -9,11 +9,13 @@ namespace RockPaperScissors
         Rock,
         Paper,
         Scissors
-    } 
+    }
     abstract class player
     {
         public string Name { get; set; }
         public Roshambo RPS { get; set; }
+        public int Wins {get;set;}
+        public int Games { get; set; }
 
         public abstract Roshambo GenerateRoShamBo();
 
@@ -62,6 +64,11 @@ namespace RockPaperScissors
             return winner;
         }
 
+        public void Victory()
+        {
+            this.Wins++;
+            Console.WriteLine($"{this.Name} Wins!!!!\n");
+        }
     }
 
     class Brock : player
@@ -69,6 +76,8 @@ namespace RockPaperScissors
         public Brock()
         {
             Name = "Brock";
+            Wins = 0;
+            Games = 0;
         }
         
         public override Roshambo GenerateRoShamBo()
@@ -85,6 +94,8 @@ namespace RockPaperScissors
         public Randy()
         {
             Name = "Randy";
+            Wins = 0;
+            Games = 0;
         }
 
         public override Roshambo GenerateRoShamBo()
@@ -94,6 +105,8 @@ namespace RockPaperScissors
 
             return randomRPS;
         }
+
+        
     }
 
     class Human : player
@@ -101,6 +114,8 @@ namespace RockPaperScissors
         public Human(string aName)
         {
             Name = aName;
+            Wins = 0;
+            Games = 0;
         }
 
         public override Roshambo GenerateRoShamBo()
